@@ -1,0 +1,2 @@
+port:50054
+dir:/home/ass112/CompNetworksProj
